@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am **Dr. Bai Xiwei (白希维)**, a researcher at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/).
+Welcome! I am **Dr. Bai Xiwei (白茜薇)**, a researcher at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/).
 
 ## Research Interests
 
